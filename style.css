@@ -1,0 +1,17 @@
+/*maqueteando con bootstrap*/
+.bg-pablo {
+    background-color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
